@@ -6,3 +6,4 @@
 - Conditional rendering
 - Event handinling
 - Basic componenet composition by nesting componenets within each other
+- Finished in one sitting so only 1 commit for the most part
